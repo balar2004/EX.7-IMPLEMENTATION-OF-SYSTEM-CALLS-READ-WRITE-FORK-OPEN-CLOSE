@@ -38,7 +38,7 @@ int main()
 }
 ```
 ## Output:
-
+![read](https://github.com/balar2004/EX.7-IMPLEMENTATION-OF-SYSTEM-CALLS-READ-WRITE-FORK-OPEN-CLOSE/assets/118791778/04b95ed8-0668-46f3-8c20-a1694981e134)
 ## Result:
 Thus, open, read, write, close , create , fork() system calls implemented successfully using c
 program.
